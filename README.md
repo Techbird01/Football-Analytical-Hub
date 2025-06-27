@@ -1,3 +1,4 @@
+![IMG_2063](https://github.com/user-attachments/assets/42864ef7-e542-41b1-ada4-43ee1f74847c)
 I am excited to share insights from my football analytical dashboard project, which I completed under the supervision and approval of Vephla University.  analysing data from 2010 to 2017."
 
 Through data analysis, l uncovered key trends and player dynamics that can inform team strategies and drive success in the sport using Microsoft Excel 
